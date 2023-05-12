@@ -9,10 +9,6 @@ from sleeping.
 | :------- | :----------------: |
 | Android  |         ✅         |
 | iOS      |         ✅         |
-| Web      |         ✅         |
-| macOS    |         ✅         |
-| Windows  |         ✅         |
-| Linux    |      planned       |
 
 ## Getting started
 
