@@ -20,7 +20,6 @@ var wakelockPlatformInstance = _defaultPlatformInstance;
 /// is available, this should be completely removed and both macOS & Windows
 /// should use `dartPluginClass` instead.
 WakelockPlatformInterface get _defaultPlatformInstance => WakelockPlatformInterface.instance;
-}
 
 /// Class providing all wakelock functionality using static members.
 ///
